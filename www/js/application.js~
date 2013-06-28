@@ -20,7 +20,7 @@ function setupDefaultView() {
     var bodyView = viewAssembler.defaultView(); 
     
     //Setup the default view
-    var defaultView = { title: "Welcome to Finder App!", 
+    var defaultView = { title: "Welcome!", 
     view:  bodyView,
     };
     
